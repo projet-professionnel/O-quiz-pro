@@ -1,0 +1,14 @@
+écrire, 0N User, 11 Quiz
+User: firstname, lastname, email, password
+grader, 01 Question, 0N Level
+Level: title, color
+
+Quiz: title, description, date_publication
+constituer, 0N Quiz, 11 Question
+Question: question, anecdote
+agréger, 0N Question, 11 Answer
+
+qualifier, 0N Quiz, 0N Theme
+Theme: title, image, color
+solutionner, 11 Question, 01 Answer
+Answer: answer,

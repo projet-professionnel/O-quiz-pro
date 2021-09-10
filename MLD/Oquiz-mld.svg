@@ -1,0 +1,152 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="592" height="305" view_box="0 0 592 305"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:link="http://www.w3.org/1999/xlink">\n\n<desc>Généré par Mocodo 2.3.7 le Fri, 10 Sep 2021 06:09:11</desc>
+
+<rect id="frame" x="0" y="0" width="592" height="305" fill="#ffffbf" stroke="none" stroke-width="0"/>
+
+<!-- Entity qualifier -->
+<g id="entity-qualifier">
+	<g id="frame-qualifier">
+		<rect x="67" y="220" width="60" height="25" fill="#fdae61" stroke="#fdae61" stroke-width="0"/>
+		<rect x="67" y="245.0" width="60" height="43" fill="#fee08b" stroke="#fee08b" stroke-width="0"/>
+		<rect x="67" y="220" width="60" height="68" fill="none" stroke="#f46d43" stroke-width="2"/>
+		<line x1="67" y1="245" x2="127" y2="245" stroke="#f46d43" stroke-width="1"/>
+	</g>
+	<text x="72" y="237.7" fill="#000000" font-family="Verdana" font-size="12">qualifier</text>
+	<text x="72" y="262.8" fill="#000000" font-family="Verdana" font-size="12">#title</text>
+	<line x1="72" y1="265" x2="106" y2="265" stroke="#000000" stroke-width="1"/>
+	<text x="72" y="279.8" fill="#000000" font-family="Verdana" font-size="12">#title.1</text>
+	<line x1="72" y1="282" x2="118" y2="282" stroke="#000000" stroke-width="1"/>
+</g>
+
+<!-- Entity Level -->
+<g id="entity-Level">
+	<g id="frame-Level">
+		<rect x="494" y="220" width="42" height="25" fill="#fdae61" stroke="#fdae61" stroke-width="0"/>
+		<rect x="494" y="245.0" width="42" height="43" fill="#fee08b" stroke="#fee08b" stroke-width="0"/>
+		<rect x="494" y="220" width="42" height="68" fill="none" stroke="#f46d43" stroke-width="2"/>
+		<line x1="494" y1="245" x2="536" y2="245" stroke="#f46d43" stroke-width="1"/>
+	</g>
+	<text x="499" y="237.7" fill="#000000" font-family="Verdana" font-size="12">Level</text>
+	<text x="499" y="262.8" fill="#000000" font-family="Verdana" font-size="12">title</text>
+	<line x1="499" y1="265" x2="523" y2="265" stroke="#000000" stroke-width="1"/>
+	<text x="499" y="279.8" fill="#000000" font-family="Verdana" font-size="12">color</text>
+</g>
+
+<!-- Entity Question -->
+<g id="entity-Question">
+	<g id="frame-Question">
+		<rect x="349" y="85" width="66" height="25" fill="#fdae61" stroke="#fdae61" stroke-width="0"/>
+		<rect x="349" y="110.0" width="66" height="93" fill="#fee08b" stroke="#fee08b" stroke-width="0"/>
+		<rect x="349" y="85" width="66" height="118" fill="none" stroke="#f46d43" stroke-width="2"/>
+		<line x1="349" y1="110" x2="415" y2="110" stroke="#f46d43" stroke-width="1"/>
+	</g>
+	<text x="355" y="102.7" fill="#000000" font-family="Verdana" font-size="12">Question</text>
+	<text x="354" y="127.7" fill="#000000" font-family="Verdana" font-size="12">question</text>
+	<line x1="354" y1="130" x2="406" y2="130" stroke="#000000" stroke-width="1"/>
+	<text x="354" y="144.8" fill="#000000" font-family="Verdana" font-size="12">anecdote</text>
+	<text x="354" y="161.8" fill="#000000" font-family="Verdana" font-size="12">#answer</text>
+	<text x="354" y="178.8" fill="#000000" font-family="Verdana" font-size="12">#title</text>
+	<text x="354" y="195.8" fill="#000000" font-family="Verdana" font-size="12">#title.1</text>
+</g>
+
+<!-- Entity Quiz -->
+<g id="entity-Quiz">
+	<g id="frame-Quiz">
+		<rect x="41" y="93" width="112" height="25" fill="#fdae61" stroke="#fdae61" stroke-width="0"/>
+		<rect x="41" y="118.0" width="112" height="77" fill="#fee08b" stroke="#fee08b" stroke-width="0"/>
+		<rect x="41" y="93" width="112" height="102" fill="none" stroke="#f46d43" stroke-width="2"/>
+		<line x1="41" y1="118" x2="153" y2="118" stroke="#f46d43" stroke-width="1"/>
+	</g>
+	<text x="83" y="110.7" fill="#000000" font-family="Verdana" font-size="12">Quiz</text>
+	<text x="46" y="135.7" fill="#000000" font-family="Verdana" font-size="12">title</text>
+	<line x1="46" y1="138" x2="70" y2="138" stroke="#000000" stroke-width="1"/>
+	<text x="46" y="152.8" fill="#000000" font-family="Verdana" font-size="12">description</text>
+	<text x="46" y="169.8" fill="#000000" font-family="Verdana" font-size="12">date_publication</text>
+	<text x="46" y="186.8" fill="#000000" font-family="Verdana" font-size="12">#firstname</text>
+</g>
+
+<!-- Entity Theme -->
+<g id="entity-Theme">
+	<g id="frame-Theme">
+		<rect x="225" y="212" width="52" height="25" fill="#fdae61" stroke="#fdae61" stroke-width="0"/>
+		<rect x="225" y="237.0" width="52" height="59" fill="#fee08b" stroke="#fee08b" stroke-width="0"/>
+		<rect x="225" y="212" width="52" height="84" fill="none" stroke="#f46d43" stroke-width="2"/>
+		<line x1="225" y1="237" x2="277" y2="237" stroke="#f46d43" stroke-width="1"/>
+	</g>
+	<text x="230" y="229.7" fill="#000000" font-family="Verdana" font-size="12">Theme</text>
+	<text x="230" y="254.8" fill="#000000" font-family="Verdana" font-size="12">title</text>
+	<line x1="230" y1="257" x2="254" y2="257" stroke="#000000" stroke-width="1"/>
+	<text x="230" y="271.8" fill="#000000" font-family="Verdana" font-size="12">image</text>
+	<text x="230" y="288.8" fill="#000000" font-family="Verdana" font-size="12">color</text>
+</g>
+
+<!-- Entity User -->
+<g id="entity-User">
+	<g id="frame-User">
+		<rect x="217" y="9" width="68" height="25" fill="#fdae61" stroke="#fdae61" stroke-width="0"/>
+		<rect x="217" y="34.0" width="68" height="77" fill="#fee08b" stroke="#fee08b" stroke-width="0"/>
+		<rect x="217" y="9" width="68" height="102" fill="none" stroke="#f46d43" stroke-width="2"/>
+		<line x1="217" y1="34" x2="285" y2="34" stroke="#f46d43" stroke-width="1"/>
+	</g>
+	<text x="237" y="26.7" fill="#000000" font-family="Verdana" font-size="12">User</text>
+	<text x="222" y="51.7" fill="#000000" font-family="Verdana" font-size="12">firstname</text>
+	<line x1="222" y1="54" x2="280" y2="54" stroke="#000000" stroke-width="1"/>
+	<text x="222" y="68.8" fill="#000000" font-family="Verdana" font-size="12">lastname</text>
+	<text x="222" y="85.8" fill="#000000" font-family="Verdana" font-size="12">email</text>
+	<text x="222" y="102.8" fill="#000000" font-family="Verdana" font-size="12">password</text>
+</g>
+
+<!-- Entity Answer -->
+<g id="entity-Answer">
+	<g id="frame-Answer">
+		<rect x="479" y="18" width="72" height="25" fill="#fdae61" stroke="#fdae61" stroke-width="0"/>
+		<rect x="479" y="43.0" width="72" height="59" fill="#fee08b" stroke="#fee08b" stroke-width="0"/>
+		<rect x="479" y="18" width="72" height="84" fill="none" stroke="#f46d43" stroke-width="2"/>
+		<line x1="479" y1="43" x2="551" y2="43" stroke="#f46d43" stroke-width="1"/>
+	</g>
+	<text x="492" y="35.7" fill="#000000" font-family="Verdana" font-size="12">Answer</text>
+	<text x="484" y="60.8" fill="#000000" font-family="Verdana" font-size="12">answer</text>
+	<line x1="484" y1="63" x2="528" y2="63" stroke="#000000" stroke-width="1"/>
+	<text x="484" y="94.8" fill="#000000" font-family="Verdana" font-size="12">#question</text>
+</g>
+
+<!-- Link from "title" (qualifier) to "title" (Quiz) -->
+<path d="M127 258.5 C 181 195.0 207 131.5 153 131.5" fill="none" stroke="#66bd63" stroke-width="2"/>
+<path d="M 153 131.5 L 165.0 125.5 L 161.0 131.5 L 165.0 137.5 Z" fill="#66bd63" stroke-width="0"/>
+<circle cx="127" cy="258.5" r="2" stroke="#66bd63" stroke-width="2" fill="#66bd63"/>
+
+<!-- Link from "title" (qualifier) to "title" (Theme) -->
+<path d="M127 275.5 C 176.0 263.0 159.666666667 250.5 225 250.5" fill="none" stroke="#66bd63" stroke-width="2"/>
+<path d="M 225 250.5 L 213.0 256.5 L 217.0 250.5 L 213.0 244.5 Z" fill="#66bd63" stroke-width="0"/>
+<circle cx="127" cy="275.5" r="2" stroke="#66bd63" stroke-width="2" fill="#66bd63"/>
+
+<!-- Link from "answer" (Question) to "answer" (Answer) -->
+<path d="M415 157.5 C 447.0 107.0 436.333333333 56.5 479 56.5" fill="none" stroke="#66bd63" stroke-width="2"/>
+<path d="M 479 56.5 L 467.0 62.5 L 471.0 56.5 L 467.0 50.5 Z" fill="#66bd63" stroke-width="0"/>
+<circle cx="415" cy="157.5" r="2" stroke="#66bd63" stroke-width="2" fill="#66bd63"/>
+
+<!-- Link from "title" (Question) to "title" (Level) -->
+<path d="M415 174.5 C 454.5 216.5 441.333333333 258.5 494 258.5" fill="none" stroke="#66bd63" stroke-width="2"/>
+<path d="M 494 258.5 L 482.0 264.5 L 486.0 258.5 L 482.0 252.5 Z" fill="#66bd63" stroke-width="0"/>
+<circle cx="415" cy="174.5" r="2" stroke="#66bd63" stroke-width="2" fill="#66bd63"/>
+
+<!-- Link from "title" (Question) to "title" (Quiz) -->
+<path d="M349 191.5 C 251.0 161.5 283.666666667 131.5 153 131.5" fill="none" stroke="#66bd63" stroke-width="2"/>
+<path d="M 153 131.5 L 165.0 125.5 L 161.0 131.5 L 165.0 137.5 Z" fill="#66bd63" stroke-width="0"/>
+<circle cx="349" cy="191.5" r="2" stroke="#66bd63" stroke-width="2" fill="#66bd63"/>
+
+<!-- Link from "firstname" (Quiz) to "firstname" (User) -->
+<path d="M153 182.5 C 185.0 115.0 174.333333333 47.5 217 47.5" fill="none" stroke="#66bd63" stroke-width="2"/>
+<path d="M 217 47.5 L 205.0 53.5 L 209.0 47.5 L 205.0 41.5 Z" fill="#66bd63" stroke-width="0"/>
+<circle cx="153" cy="182.5" r="2" stroke="#66bd63" stroke-width="2" fill="#66bd63"/>
+
+<!-- Link from "question" (Answer) to "question" (Question) -->
+<path d="M479 90.5 C 447.0 107.0 457.666666667 123.5 415 123.5" fill="none" stroke="#66bd63" stroke-width="2"/>
+<path d="M 415 123.5 L 427.0 117.5 L 423.0 123.5 L 427.0 129.5 Z" fill="#66bd63" stroke-width="0"/>
+<circle cx="479" cy="90.5" r="2" stroke="#66bd63" stroke-width="2" fill="#66bd63"/>
+</svg>

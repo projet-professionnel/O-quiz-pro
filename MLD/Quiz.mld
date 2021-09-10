@@ -1,0 +1,22 @@
+%%mocodo
+:::
+User: firstname, lastname, email, password
+:::
+Level: title, color
+:
+
+
+:
+Quiz: title, description, date_publication, #firstname->User->firstname
+:::
+Question: question, anecdote, #answer->Answer->answer, #title->Level->title, #title.1->Quiz->title
+:::
+
+
+:
+qualifier: #title->Quiz->title, _#title.1->Theme->title
+:
+Theme: title, image, color
+:::
+Answer: answer, , #question->Question->question
+:
