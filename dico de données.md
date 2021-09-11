@@ -1,9 +1,9 @@
 # Dictionnaire de données
 
-- firstname
-- lastname
-- email
-- password
+- firstname  TEXT NOT NULL 
+- lastname TEXT NOT NULL
+- email  TEXT NOT NULL
+- password  TEXT
 - title
 - color
 - title

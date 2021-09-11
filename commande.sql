@@ -1,0 +1,5 @@
+postgres=# CREATE ROLE admin WITH LOGIN PASSWORD
+'mypassword';
+CREATE ROLE
+postgres=# CREATE DATABASE okanban OWNER admin;
+CREATE DATABASE
